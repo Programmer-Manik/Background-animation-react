@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-    <Background></Background>
+    <Background/>
       <div>
         <a>
           <img src={viteLogo} className="logo" alt="Vite logo" />
